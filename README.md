@@ -9,5 +9,7 @@ Currently, two official plugins are available:
 
 # Setup
 git clone
+
 npm i
+
 npm run dev
